@@ -30,5 +30,3 @@ RUN cd /tmp && \
     make && \
     make install && \
     ldconfig
-
-COPY . /media-platform-image-manipulator
